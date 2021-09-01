@@ -1,1 +1,1 @@
-# bootstrap_alapok
+bootstrap_alapok
